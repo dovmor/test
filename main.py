@@ -18,4 +18,5 @@ def get_bitcoin_price():
     return bitcoin_price
 
 # Print the current Bitcoin price
+print("bitcoin_price.py is being executed")
 print("Current Bitcoin price in USD:", get_bitcoin_price())
